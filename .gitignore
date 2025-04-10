@@ -2,3 +2,6 @@
 *.zip
 .DS_Store
 reference
+
+# Exam
+!Exam/**/*.pdf

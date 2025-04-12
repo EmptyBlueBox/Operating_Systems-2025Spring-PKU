@@ -6,6 +6,14 @@
 - Department: School of EECS, PKU
 - Welcome to my [course review](https://www.lyt0112.com/blog/course_review-zh)!
 
+## Content
+
+1. 课程笔记
+2. 课程作业
+3. Lab 代码
+4. 考试往年题
+5. 课堂小测总结
+
 ## Course Score Composition
 
 1. 平时成绩（50%）

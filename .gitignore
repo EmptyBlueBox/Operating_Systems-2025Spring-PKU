@@ -1,7 +1,8 @@
 *.pdf
 *.zip
+*.docx
 .DS_Store
 reference
 
 # Exam
-!Exam/**/*.pdf
+!Exam/MidtermExam/*.pdf

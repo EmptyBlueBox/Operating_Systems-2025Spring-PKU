@@ -3,3 +3,5 @@
 *.docx
 .DS_Store
 reference
+
+!cheatsheet-midterm.docx

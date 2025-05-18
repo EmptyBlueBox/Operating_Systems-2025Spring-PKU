@@ -1,6 +1,7 @@
 *.pdf
 *.zip
 *.docx
+*.key
 .DS_Store
 reference
 

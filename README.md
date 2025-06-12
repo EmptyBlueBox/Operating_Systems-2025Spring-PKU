@@ -4,7 +4,8 @@
 - Lecturer: [陈向群(教授)](https://cs.pku.edu.cn/info/1062/1604.htm)
 - Year: 2025 Spring
 - Department: School of EECS, PKU
-- Welcome to my [course review](https://www.lyt0112.com/blog/course_review-zh)!
+- My course notes: [Operating System](https://www.lyt0112.com/tags/operating%20systems)
+- Welcome to my [Course Review](https://www.lyt0112.com/blog/course_review-zh)!
 
 ## Content
 
